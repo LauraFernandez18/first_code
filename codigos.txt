@@ -1,0 +1,4 @@
+git clon [url]
+gi checkout [ruta]
+git add -A 
+git commit -m "primera subida"
