@@ -1,6 +1,6 @@
     * {
         box-sizing: border-box;
-        font-family: 'Peddana', serif;
+        font-family: 'Piazzolla', serif;
     }
     
     body {
@@ -68,6 +68,28 @@
         float: left;
         padding: 20px;
         width: 50%;
+    }
+
+    .four-column {
+        padding: 20px;
+        float: left;
+        width: 25%;
+    }
+
+    #footer-a {
+        background-color: #21252995;
+    }  
+
+    #footer-a p {
+        color: white;
+    }
+
+    #footer-b {
+        color: #868e96;
+        background-color: #212529;
+        text-align: center;
+    }
+
 
     /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
     
